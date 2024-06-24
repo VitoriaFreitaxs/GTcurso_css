@@ -1,0 +1,109 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+main{
+    width: 100vw;
+    height: 100vh;
+}
+
+.cabecalho{
+    width: 100vw;
+    height: 300px;
+    background-color:blueviolet;
+    
+}
+
+.conteiner{
+    padding: 50px;
+    
+}
+
+body{
+    overflow-x: hidden;
+    
+}
+
+h1{
+    background-color: darkmagenta;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    text-align: center;
+}
+
+h2{
+    color:darkmagenta;
+    padding: 30px;
+    margin-top: 30px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+    background-color: darkmagenta;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    text-align: center;
+}
+
+.texto{
+    color:darkmagenta;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: darkmagenta;
+    padding: 10px;
+}
+
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px; 
+    padding: 40px;
+    font-weight: bold;
+}
+
+hr {
+    width: 10%;
+    height: 1px;
+    margin: 0 auto;
+    border-top: 3px solid darkmagenta;
+    text-align: center;
+}
+
+.team{
+    width: 200px;
+    height: 200px;
+    background-color: darkmagenta;
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    margin: 20px;
+
+}
+
+.secao{
+    display: inline-block;
+}
+
+.conteiner-2{
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    width: 100vw;
+    height: 50px;
+    background-color: darkmagenta;
+    margin-top: 100px;
+    
+}
+
